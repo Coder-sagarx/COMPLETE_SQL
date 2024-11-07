@@ -1,0 +1,2 @@
+ABOUT THE STRUCTURE QUERRY LANGUAGE 
+all the basic code 
